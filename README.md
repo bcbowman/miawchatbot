@@ -1,4 +1,4 @@
-# miawchatbot
+# Agentforce Test Bot
 <style type='text/css'>
         .embeddedServiceHelpButton .helpButton .uiButton {
             background-color: #ceff85;
@@ -33,4 +33,3 @@
 	};
 </script>
 <script type='text/javascript' src='https://goosehead--miaw.sandbox.my.site.com/ESWMessagingDeployment1737308905282/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-    <script type='text/javascript'>
